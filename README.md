@@ -1,7 +1,6 @@
-## Descrição
+# Atividade 01 - API Development
 
-Atividade 01 - API Development
-Aluno: Bruno Martins Damasceno - bruno.damasceno@aluno.faculdadeimpacta.com.br
+## Aluno: Bruno Martins Damasceno - bruno.damasceno@aluno.faculdadeimpacta.com.br
 Utilizei os conceitos apresentados no Hands-on da ultima aula e o Copilot, princiaplmente na criação da lógida serviço.
 
 
